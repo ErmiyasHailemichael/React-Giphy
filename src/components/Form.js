@@ -14,6 +14,7 @@ const Form = (props) => {
     }
     return (
         <div>
+            
             {/* <h1>The Form component</h1> */}
             {/* i was trying to add the search button but it ended up not searing instead start searing randomly */}
             <form onSubmit={handleSubmit}>
